@@ -1,5 +1,5 @@
 # Readings in web development
-This repository contains link to __articles that i have read__ in web developemnt. The __objective__ is to read at least __two articles per day__ starting Februrary 2020 for the forseeble future.
+This repository contains link to __articles that i have read__ in web development. The __objective__ is to read at least __two articles per day__ starting Februrary 2020 for the foreseeable future.
 
 The date of the articles are the actually date when i read the articles.
 

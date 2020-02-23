@@ -12,7 +12,7 @@ The date of the articles are the actually date when i read the articles.
 * [A Complete Guide to Data Attributes](https://css-tricks.com/a-complete-guide-to-data-attributes/) on [css-tricks](https://css-tricks.com)
 
 ## 23<sup>rd</sup> February 2020
-* [Accessible unethical technology](https://laurakalbag.com/accessible-unethical-technology/)
-* [A decade of heading backwards](https://codepen.io/stevef/post/a-decade-of-heading-backwards)
-* [CSS Can Influence Screenreaders](https://blog.benmyers.dev/css-can-influence-screenreaders/)
-* [Custom Styling Form Inputs With Modern CSS Features](https://css-tricks.com/custom-styling-form-inputs-with-modern-css-features/)
+* [Accessible unethical technology](https://laurakalbag.com/accessible-unethical-technology/) by [Laura Kalbag](https://laurakalbag.com)
+* [A decade of heading backwards](https://codepen.io/stevef/post/a-decade-of-heading-backwards) by [Steve faulkner](https://codepen.io/stevef/)
+* [CSS Can Influence Screenreaders](https://blog.benmyers.dev/css-can-influence-screenreaders/) by [Ben Mayers](https://www.benmyers.dev/)
+* [Custom Styling Form Inputs With Modern CSS Features](https://css-tricks.com/custom-styling-form-inputs-with-modern-css-features/) by [Aaron Iker](https://aaroniker.me/)

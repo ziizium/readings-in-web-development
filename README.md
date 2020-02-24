@@ -16,3 +16,7 @@ The date of the articles are the actually date when i read the articles.
 * [A decade of heading backwards](https://codepen.io/stevef/post/a-decade-of-heading-backwards) by [Steve faulkner](https://codepen.io/stevef/)
 * [CSS Can Influence Screenreaders](https://blog.benmyers.dev/css-can-influence-screenreaders/) by [Ben Mayers](https://www.benmyers.dev/)
 * [Custom Styling Form Inputs With Modern CSS Features](https://css-tricks.com/custom-styling-form-inputs-with-modern-css-features/) by [Aaron Iker](https://aaroniker.me/)
+
+## 24<sup>th</sup> February 2020
+[JavaScript Libraries Are Almost Never Updated Once Installed](https://blog.cloudflare.com/javascript-libraries-are-almost-never-updated/)
+[#16 alt, no wait…, aria-label, no wait…, alt](https://www.htmhell.dev/alt-no-aria-label-no-alt/)

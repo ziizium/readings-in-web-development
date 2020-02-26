@@ -20,3 +20,7 @@ The date of the articles are the actually date when i read the articles.
 ## 24<sup>th</sup> February 2020
 * [JavaScript Libraries Are Almost Never Updated Once Installed](https://blog.cloudflare.com/javascript-libraries-are-almost-never-updated/)
 * [#16 alt, no wait…, aria-label, no wait…, alt](https://www.htmhell.dev/alt-no-aria-label-no-alt/)
+
+## 25 <sup>th</sup> February 2020
+* [The case for learning sign language as an accessibility engineer](https://developer.paciellogroup.com/blog/2020/02/the-case-for-learning-sign-language-as-an-accessibility-engineer/)
+* [Squarespace, Wix, & Weebly: Accessibility Review](http://terrillthompson.com/1203) by [Terrill Thompson](http://terrillthompson.com/)

@@ -24,3 +24,18 @@ The date of the articles are the actually date when i read the articles.
 ## 25 <sup>th</sup> February 2020
 * [The case for learning sign language as an accessibility engineer](https://developer.paciellogroup.com/blog/2020/02/the-case-for-learning-sign-language-as-an-accessibility-engineer/)
 * [Squarespace, Wix, & Weebly: Accessibility Review](http://terrillthompson.com/1203) by [Terrill Thompson](http://terrillthompson.com/)
+
+## 26 <sup>th</sup> February 2020
+* [The JavaScript Thread of Execution, Visually Explained](https://alligator.io/js/thread-of-execution/) by [Paul Ryan](https://www.paulryancodes.com/)
+* [User experience and cognitive load: when less is more](https://uxdesign.cc/user-experience-and-perception-when-less-is-more-f7939943b2e9) by [Ed Orozco](https://www.edorozco.com/)
+
+## 27 <sup>th</sup> February 2020
+* [Learn CSS Positioning](https://ishadeed.com/article/learn-css-positioning/) by [Ahmed Shadeed](https://ishadeed.com/)
+* [Styling the good ol' button](https://ishadeed.com/article/styling-the-good-old-button/) by [Ahmed Shadeed](https://ishadeed.com/)
+
+## 29 <sup>th</sup> February 2020
+* [Why Supporting Unlabeled UTF-8 in HTML on the Web Would Be Problematic](https://hsivonen.fi/utf-8-detection/) by [Henri Sivonen](https://hsivonen.fi/author/)
+* [Autofill on Browsers: A Deep Dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/)
+* [Google’s AMP HTML](https://adrianroselli.com/2015/10/googles-amp-html.html) by [Adrian Roselli](adrianroselli.com)
+* [Authoring the Authors: Accessibility Best practices for Content authors](https://www.digitala11y.com/authoring-the-authors-accessibility-best-practices-for-content-authors/) by [Raghavendra Satish Peri](https://raghava.in/)
+* [One of my favourite accessibility testing tools: The Tab Key](https://www.matuzo.at/blog/testing-with-tab/) by [Manuel Matuzovic](https://www.matuzo.at/)

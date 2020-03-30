@@ -82,3 +82,23 @@ The date of the articles are the actually date when i read the articles.
 * [Understanding Immutability in JavaScript](https://css-tricks.com/understanding-immutability-in-javascript/)
 * [Why use a form element when submitting fields with JavaScript?](https://gomakethings.com/why-use-a-form-element-when-submitting-fields-with-javascript/)
 * [Building an accessible autocomplete control](https://adamsilver.io/articles/building-an-accessible-autocomplete-control/) by [Adam Silver](https://adamsilver.io/)
+
+## 11 <sup>th</sup> March 2020
+* [AI Is Changing Web Development](https://www.enterpriseai.news/2020/01/13/ai-is-changing-web-development/)
+* [Data expands to fill the space available (Part 2)](https://gerrymcgovern.com/data-expands-to-fill-the-space-available-part-2/)
+* [Information Scent: How Users Decide Where to Go Next](https://www.nngroup.com/articles/information-scent/)
+* [placeholder - the piss-take label](https://codepen.io/stevef/post/placeholder-the-piss-take-label)
+
+## 12 <sup>th</sup> March 2020
+* [Decoding Label and Name for Accessibility](https://webaim.org/articles/label-name/)
+* [Focus management still matters](https://sarahmhigley.com/writing/focus-navigation-start-point/)
+
+## 13 <sup>th</sup> March 2020
+* [5 Things You Need to Know About Manual Accessibility Testing with the Keyboard and Screen Readers](https://dev.to/madalynrose/5-things-you-need-to-know-about-manual-accessibility-testing-with-the-keyboard-and-screen-readers-3512)
+* [Missing Form Label – Site Search example](https://blog.pope.tech/2020/02/28/missing-form-label-search/)
+
+## 15 <sup>th</sup> March 2020
+* [Why accessibility is an important part of Customer Experience (CX)](https://www.nomensa.com/blog/2020/why-accessibility-important-part-customer-experience-cx)
+* [PWAC + OZeWAI 2020 conference highlights](https://www.hollier.info/pwac2020/)
+* [State websites show dozens of accessibility errors, may violate Americans with Disabilities Act](https://www.channel3000.com/state-websites-show-dozens-of-accessibility-errors-may-violate-americans-with-disabilities-act/)
+* [10 Ways to Hide Elements in CSS](https://www.sitepoint.com/hide-elements-in-css/)

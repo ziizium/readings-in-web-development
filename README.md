@@ -58,3 +58,11 @@ The date of the articles are the actually date when i read the articles.
 * [Hydration](https://adactio.com/journal/16404) by [Jeremy Keith](https://adactio.com/)
 * [Link Targets and 3.2.5](https://adrianroselli.com/2020/02/link-targets-and-3-2-5.html) by [Adrian Roselli](https://adrianroselli.com/)
 * [Dropdown Menus 2020: Menus are not menus](http://terrillthompson.com/1226) by [Terril Thompson](http://terrillthompson.com)
+
+## 5 <sup>th</sup> March 2020
+* [Avoid These 10 UX Design Fails](https://usabilitygeek.com/avoid-these-10-ux-design-fails/)
+* [How Can We Make URLs Readable?](https://www.lireo.com/make-urls-readable/)
+* [We need more editors](https://gerrymcgovern.com/we-need-more-editors/) by [Garry McGovern](https://gerrymcgovern.com/)
+* [5 tips for making your app accessible](https://blogs.intuit.com/blog/2020/01/28/5-tips-for-making-your-app-accessible/)
+* [Could browsers fix more accessibility problems automatically?](https://hiddedevries.nl/en/blog/2020-02-04-could-browsers-fix-more-accessibility-problems-automatically) by [Hidde de Vries](https://hiddedevries.nl/en/about-me/)
+* [Here’s what I didn’t know about list-style-type](https://www.matuzo.at/blog/heres-what-i-didnt-know-about-list-style-type/) by [Manuel Matuzovic](https://www.matuzo.at/)

@@ -66,3 +66,19 @@ The date of the articles are the actually date when i read the articles.
 * [5 tips for making your app accessible](https://blogs.intuit.com/blog/2020/01/28/5-tips-for-making-your-app-accessible/)
 * [Could browsers fix more accessibility problems automatically?](https://hiddedevries.nl/en/blog/2020-02-04-could-browsers-fix-more-accessibility-problems-automatically) by [Hidde de Vries](https://hiddedevries.nl/en/about-me/)
 * [Here’s what I didn’t know about list-style-type](https://www.matuzo.at/blog/heres-what-i-didnt-know-about-list-style-type/) by [Manuel Matuzovic](https://www.matuzo.at/)
+
+## 8 <sup>th</sup> March 2020
+* [A very handy guide to moderated and unmoderated testing](https://www.userzoom.com/blog/a-very-handy-guide-to-moderated-and-unmoderated-testing/)
+* [Accessibility: why you should get on board](https://gds.blog.gov.uk/2020/01/28/accessibility-why-you-should-get-on-board/)
+* [What does “revert” do in CSS?](https://css-tricks.com/what-does-revert-do-in-css/) by [Chris Coyier](https://chriscoyier.net)
+* [Dark Mode vs. Light Mode: Which Is Better?](https://www.nngroup.com/articles/dark-mode/)
+
+## 9 <sup>th</sup> March 2020
+* [What's the value of prototyping in UX design?](https://www.nomensa.com/blog/2020/whats-value-prototyping-ux-design)
+* [User Research May Be the Most Important Role in Your Company](https://www.uxbooth.com/articles/user-research-may-be-the-most-important-role-in-your-company/)
+
+## 10 <sup>th</sup> March 2020
+* [Progressive enhancement doesn't have to be hard](https://levimcg.com/posts/progressive-enhancement-doesnt-have-to-be-hard/)
+* [Understanding Immutability in JavaScript](https://css-tricks.com/understanding-immutability-in-javascript/)
+* [Why use a form element when submitting fields with JavaScript?](https://gomakethings.com/why-use-a-form-element-when-submitting-fields-with-javascript/)
+* [Building an accessible autocomplete control](https://adamsilver.io/articles/building-an-accessible-autocomplete-control/) by [Adam Silver](https://adamsilver.io/)

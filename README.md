@@ -105,7 +105,7 @@ The date of the articles are the actually date when i read the articles.
 
 ## 17 <sup>th</sup> March 2020
 * [Responsive Grid Magazine Layout in Just 20 Lines of CSS](https://css-tricks.com/responsive-grid-magazine-layout-in-just-20-lines-of-css/)
-* [Negative margins in CSS](https://www.quirksmode.org/blog/archives/2020/02/negative_margin.html)
+* [Negative margins in CSS](https://www.quirksmode.org/blog/archives/2020/02/negative_margin.html) by [Peter-Paul Koch](https://twitter.com/ppk)
 
 ## 18 <sup>th</sup> March 2020
 * [Why is CSS Frustrating?](https://css-tricks.com/why-is-css-frustrating/) by [Robin Rendle](https://twitter.com/robinrendle)

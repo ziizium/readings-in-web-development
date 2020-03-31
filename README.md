@@ -108,5 +108,5 @@ The date of the articles are the actually date when i read the articles.
 * [Negative margins in CSS](https://www.quirksmode.org/blog/archives/2020/02/negative_margin.html)
 
 ## 18 <sup>th</sup> March 2020
-* [Why is CSS Frustrating?](https://css-tricks.com/why-is-css-frustrating/)
-* [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
+* [Why is CSS Frustrating?](https://css-tricks.com/why-is-css-frustrating/) by [Robin Rendle](https://twitter.com/robinrendle)
+* [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/) by [Dave Rupert](https://daverupert.com)

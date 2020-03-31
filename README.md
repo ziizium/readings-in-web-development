@@ -102,3 +102,11 @@ The date of the articles are the actually date when i read the articles.
 * [PWAC + OZeWAI 2020 conference highlights](https://www.hollier.info/pwac2020/)
 * [State websites show dozens of accessibility errors, may violate Americans with Disabilities Act](https://www.channel3000.com/state-websites-show-dozens-of-accessibility-errors-may-violate-americans-with-disabilities-act/)
 * [10 Ways to Hide Elements in CSS](https://www.sitepoint.com/hide-elements-in-css/)
+
+## 17 <sup>th</sup> March 2020
+* [Responsive Grid Magazine Layout in Just 20 Lines of CSS](https://css-tricks.com/responsive-grid-magazine-layout-in-just-20-lines-of-css/)
+* [Negative margins in CSS](https://www.quirksmode.org/blog/archives/2020/02/negative_margin.html) by [Peter-Paul Koch](https://twitter.com/ppk)
+
+## 18 <sup>th</sup> March 2020
+* [Why is CSS Frustrating?](https://css-tricks.com/why-is-css-frustrating/) by [Robin Rendle](https://twitter.com/robinrendle)
+* [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/) by [Dave Rupert](https://daverupert.com)

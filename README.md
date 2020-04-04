@@ -1,7 +1,7 @@
 # Readings in web development
-This repository contains link to __articles that i have read__ in web development. The __objective__ is to read at least __two articles per day__ starting Februrary 2020 for the foreseeable future.
+This repository contains link to __articles that I have read__ in web development. The __objective__ is to read at least __two articles per day__ starting Februrary 2020 for the foreseeable future.
 
-The date of the articles are the actually date when i read the articles.
+The date of the articles are the actually date when I read the articles.
 
 ## 18<sup>th</sup> February 2020
 * [Why JavaScript is Eating HTML](https://css-tricks.com/why-javascript-is-eating-html/) by Mike Turley on [css-tricks](https://css-tricks.com)

@@ -110,3 +110,10 @@ The date of the articles are the actually date when I read the articles.
 ## 18 <sup>th</sup> March 2020
 * [Why is CSS Frustrating?](https://css-tricks.com/why-is-css-frustrating/) by [Robin Rendle](https://twitter.com/robinrendle)
 * [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/) by [Dave Rupert](https://daverupert.com)
+
+## 04 <sup>th</sup> April 2020
+* [Web Accessibility Checklist 16 Things to Improve Your Website Accessibility](https://websitesetup.org/web-accessibility-checklist/) by [Bruce Lawson](https://www.brucelawson.co.uk/)
+* [Create Your Own AHA Moment](https://knowbility.org/blog/2020/create-your-own-aha-moment/) by [Becky Gibson](https://knowbility.org/about/team/becky-gibson/)
+
+## 28 <sup>th</sup> April 2020
+* [Everything I Know About Positioning Poppers (Tooltips, Popovers, Dropdowns) in UIs](https://dev.to/atomiks/everything-i-know-about-positioning-poppers-tooltips-popovers-dropdowns-in-uis-3nkl) by [atomiks](https://dev.to/atomiks)

@@ -132,3 +132,11 @@ The date of the articles are the actually date when I read the articles.
 ## 30 <sup>th</sup> May 2020
 * [Image Techniques On The Web](https://ishadeed.com/article/image-techniques/) by [Ahmad Shadeed](https://ishadeed.com)
 * [ Programming CSS to perform Sass colour functions ](https://dev.to/adactio/programming-css-to-perform-sass-colour-functions-11k9) by [Jeremy Keith](https://adactio.com)
+
+## 11 <sup>th</sup> June 2020
+* [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/#header) by [Ahmad Shadeed](https://ishadeed.com)
+* [Learn Box Alignment](https://ishadeed.com/article/learn-box-alignment/) by [Ahmad Shadeed](https://ishadeed.com)
+
+## 22 <sup>nd</sup> June 2020
+* [Building the Woke Web: Web Accessibility, Inclusion & Social Justice](https://alistapart.com/article/building-the-woke-web/)
+* [Where did the focus go?](https://amberwilson.co.uk/blog/where-did-the-focus-go/) by [Amber Wilson](https://amberwilson.co.uk/)

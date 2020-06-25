@@ -140,3 +140,7 @@ The date of the articles are the actually date when I read the articles.
 ## 22 <sup>nd</sup> June 2020
 * [Building the Woke Web: Web Accessibility, Inclusion & Social Justice](https://alistapart.com/article/building-the-woke-web/)
 * [Where did the focus go?](https://amberwilson.co.uk/blog/where-did-the-focus-go/) by [Amber Wilson](https://amberwilson.co.uk/)
+
+## 25 <sup>th</sup> June 2020
+* [Asynchronous JavaScript—How Callbacks, Promises, and Async-Await Work](https://dev.to/nas5w/asynchronous-javascript-how-callbacks-promises-and-async-await-work-1f7p)
+* [A SOLID framework - Inversion of Control Pt 1](https://dev.to/miketalbot/a-solid-framework-inversion-of-control-pt1-4jg)

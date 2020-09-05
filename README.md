@@ -144,3 +144,21 @@ The date of the articles are the actually date when I read the articles.
 ## 25 <sup>th</sup> June 2020
 * [Asynchronous JavaScript—How Callbacks, Promises, and Async-Await Work](https://dev.to/nas5w/asynchronous-javascript-how-callbacks-promises-and-async-await-work-1f7p)
 * [A SOLID framework - Inversion of Control Pt 1](https://dev.to/miketalbot/a-solid-framework-inversion-of-control-pt1-4jg)
+
+## 27 <sup>th</sup> June 2020
+* [CSS custom properties and the cascade](https://adactio.com/journal/16993) by [Jeremy Keith](https://adactio.com/)
+* [How CSS Variables Can Improve Efficiency and Consistency](https://speckyboy.com/css-variables-improve-efficiency-consistency/)
+* [Color Craft & Counterpoint: A Designer’s Life with Color Vision Deficiency](https://alistapart.com/article/a-designers-life-with-color-vision-deficiency/)
+* [Digital accessibility, What’s beyond Guidelines](https://www.maxability.co.in/2020/06/16/digital-accessibility-whats-beyond-guidelines/)
+* [Reminder: Accessibility can’t be solved automatically](https://www.joedolson.com/2020/06/reminder-accessibility-cant-be-solved-automatically/)
+
+## 14 <sup>th</sup> July 2020
+* [Putting design principles into action](https://dev.to/adactio/putting-design-principles-into-action-49hd) by [Jeremy Keith](https://adactio.com)
+* [How UX writing can help create good design](https://usabilitygeek.com/how-ux-writing-can-help-create-good-design/)
+* [Uncommon CSS Properties](https://ishadeed.com/article/uncommon-css/) by [Ahmad Shadeed](https://ishadeed.com)
+* [What's the point of site search?](https://idratherbewriting.com/blog/pointless-to-implement-site-search/)
+* [Beginners’ Guide To Writing Good HTML](https://websitesetup.org/html-tutorial-beginners/)
+* [CSS :is() and :where() are coming to browsers](https://webplatform.news/issues/2020-06-04)
+
+## 5 <sup>th</sup> September 2020
+* [The many ways to write a color in CSS](https://dev.to/alvaromontoro/the-many-ways-to-write-a-color-in-css-2ag8) by [Alvaro Montoro](https://dev.to/alvaromontoro)

@@ -162,3 +162,6 @@ The date of the articles are the actually date when I read the articles.
 
 ## 5 <sup>th</sup> September 2020
 * [The many ways to write a color in CSS](https://dev.to/alvaromontoro/the-many-ways-to-write-a-color-in-css-2ag8) by [Alvaro Montoro](https://dev.to/alvaromontoro)
+* [CSS Mistakes While On Autopilot](https://ishadeed.com/article/css-mistakes/) by [Ahmad Shadeed](https://ishadeed.com)
+* [The New Facebook Login Design](https://ishadeed.com/snippet/facebook-new-login/) by [Ahmad Shadeed](https://ishadeed.com)
+* [The Just in Case Mindset in CSS](https://ishadeed.com/article/the-just-in-case-mindset-css/) by [Ahmad Shadeed](https://ishadeed.com)

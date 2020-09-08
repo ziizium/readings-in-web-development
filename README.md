@@ -33,7 +33,7 @@ The date of the articles are the actually date when I read the articles.
 * [Learn CSS Positioning](https://ishadeed.com/article/learn-css-positioning/) by [Ahmed Shadeed](https://ishadeed.com/)
 * [Styling the good ol' button](https://ishadeed.com/article/styling-the-good-old-button/) by [Ahmed Shadeed](https://ishadeed.com/)
 
-## 29 <sup>th</sup> February 2020
+## 29<sup>th</sup> February 2020
 * [Why Supporting Unlabeled UTF-8 in HTML on the Web Would Be Problematic](https://hsivonen.fi/utf-8-detection/) by [Henri Sivonen](https://hsivonen.fi/author/)
 * [Autofill on Browsers: A Deep Dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/)
 * [Google’s AMP HTML](https://adrianroselli.com/2015/10/googles-amp-html.html) by [Adrian Roselli](adrianroselli.com)
